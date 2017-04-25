@@ -15,6 +15,6 @@ CREATE TABLE `users` (
 
 3- run localhost ex: http://localhost:8080/regupdate/
 
-4- you can sign up or login
+4- you can sign up or login with (Username & password).
 
 5- you can change password on your profile from change password
